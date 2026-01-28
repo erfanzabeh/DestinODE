@@ -95,7 +95,6 @@ pyrsistent==0.19.3
 python-dateutil==2.8.2
 python-json-logger==2.0.4
 pytz==2025.2
-PyYAML==6.0
 pyzmq==25.0.0
 qtconsole==5.4.0
 QtPy==2.3.0
@@ -115,7 +114,6 @@ tensorboard==2.11.2
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow-estimator==2.11.0
-tensorflow-macos==2.11.0
 termcolor==2.2.0
 terminado==0.17.1
 tinycss2==1.2.1
